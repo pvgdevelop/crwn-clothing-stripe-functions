@@ -1,0 +1,12 @@
+{
+  "name": "crwn-clothing-stripe-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pvgdevelop/crwn-clothing-stripe-functions.git",
+  "author": "PVG Develop <vargan.pg@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
